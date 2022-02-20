@@ -1,6 +1,6 @@
 # webtorrent-cli-magnet-handler
 
-To be used with @webtorrent/webtorrent-cli to handle magnet links with the webtorrent CLI
+To be used with [webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) to handle magnet links with the webtorrent CLI
 
 ## Getting started:
 
